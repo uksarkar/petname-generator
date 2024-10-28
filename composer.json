@@ -1,0 +1,19 @@
+{
+    "name": "uksarkar/petname-generator",
+    "description": "A PHP package for generating random pet names.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Uksarkar\\PetnameGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Utpal Sarkar",
+            "email": "connect@utpal.io"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
