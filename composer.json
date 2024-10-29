@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Uksarkar\\PetnameGenerator\\": "src/"
+            "UkSarkar\\PetNameGenerator\\": "src/"
         }
     },
     "authors": [

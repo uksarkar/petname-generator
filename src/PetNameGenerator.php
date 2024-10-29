@@ -1,6 +1,6 @@
 <?php
 
-namespace Uksarkar\PetNameGenerator;
+namespace UkSarkar\PetNameGenerator;
 
 class PetNameGenerator
 {
